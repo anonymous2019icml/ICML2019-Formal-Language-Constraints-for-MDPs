@@ -1,0 +1,1 @@
+- regex2dfa is a java program that translates a regular language to dfa
